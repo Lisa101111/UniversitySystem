@@ -1,8 +1,8 @@
-package com.sdacademy.university.controller;
+package com.universitysystem.controller;
 
 
-import com.sdacademy.university.model.entity.UniversityEntity;
-import com.sdacademy.university.service.UniversityService;
+import com.universitysystem.model.entity.UniversityEntity;
+import com.universitysystem.service.UniversityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

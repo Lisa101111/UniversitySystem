@@ -1,8 +1,8 @@
-package com.sdacademy.university.service;
-import com.sdacademy.university.model.entity.LecturerEntity;
-import com.sdacademy.university.model.entity.UniversityEntity;
-import com.sdacademy.university.repository.LecturerRepository;
-import com.sdacademy.university.repository.UniversityRepository;
+package com.universitysystem.service;
+import com.universitysystem.model.entity.LecturerEntity;
+import com.universitysystem.model.entity.UniversityEntity;
+import com.universitysystem.repository.LecturerRepository;
+import com.universitysystem.repository.UniversityRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

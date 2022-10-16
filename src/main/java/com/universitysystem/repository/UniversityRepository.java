@@ -1,7 +1,7 @@
-package com.sdacademy.university.repository;
+package com.universitysystem.repository;
 
 
-import com.sdacademy.university.model.entity.UniversityEntity;
+import com.universitysystem.model.entity.UniversityEntity;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

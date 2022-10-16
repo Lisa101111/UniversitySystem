@@ -1,4 +1,4 @@
-package com.sdacademy.university;
+package com.universitysystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

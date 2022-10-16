@@ -1,4 +1,4 @@
-package com.sdacademy.university.model.exception;
+package com.universitysystem.model.exception;
 
 public class ValidationException  extends RuntimeException{
 }

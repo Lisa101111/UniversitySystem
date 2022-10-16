@@ -1,4 +1,4 @@
-package com.sdacademy.university.service;
+package com.universitysystem.service;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.params.ParameterizedTest;

@@ -1,7 +1,7 @@
-package com.sdacademy.university.validator;
+package com.universitysystem.validator;
 
-import com.sdacademy.university.model.entity.LecturerEntity;
-import com.sdacademy.university.model.exception.ValidationException;
+import com.universitysystem.model.entity.LecturerEntity;
+import com.universitysystem.model.exception.ValidationException;
 import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;

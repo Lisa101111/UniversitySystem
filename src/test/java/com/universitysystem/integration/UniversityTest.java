@@ -1,13 +1,13 @@
-package com.sdacademy.university.integration;
+package com.universitysystem.integration;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import static org.mockito.Mockito.when;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.sdacademy.university.model.entity.UniversityEntity;
+import com.universitysystem.model.entity.UniversityEntity;
 
-import com.sdacademy.university.repository.UniversityRepository;
+import com.universitysystem.repository.UniversityRepository;
 import java.util.List;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.mock.mockito.MockBean;

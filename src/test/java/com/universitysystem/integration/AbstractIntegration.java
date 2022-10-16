@@ -1,4 +1,4 @@
-package com.sdacademy.university.integration;
+package com.universitysystem.integration;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;

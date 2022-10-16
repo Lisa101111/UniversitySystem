@@ -1,4 +1,4 @@
-package com.sdacademy.university.service;
+package com.universitysystem.service;
 
 import org.springframework.stereotype.Service;
 

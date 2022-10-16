@@ -1,8 +1,8 @@
-package com.sdacademy.university.service;
+package com.universitysystem.service;
 
-import com.sdacademy.university.model.entity.UniversityEntity;
-import com.sdacademy.university.repository.LecturerRepository;
-import com.sdacademy.university.repository.UniversityRepository;
+import com.universitysystem.model.entity.UniversityEntity;
+import com.universitysystem.repository.LecturerRepository;
+import com.universitysystem.repository.UniversityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

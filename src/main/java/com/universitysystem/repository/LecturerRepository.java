@@ -1,6 +1,6 @@
-package com.sdacademy.university.repository;
+package com.universitysystem.repository;
 
-import com.sdacademy.university.model.entity.LecturerEntity;
+import com.universitysystem.model.entity.LecturerEntity;
 import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;

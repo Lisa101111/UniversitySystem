@@ -1,7 +1,8 @@
-package com.sdacademy.university.validator;
+package com.universitysystem.validator;
 
-import com.sdacademy.university.model.entity.LecturerEntity;
-import com.sdacademy.university.model.exception.ValidationException;
+import com.universitysystem.model.entity.LecturerEntity;
+import com.universitysystem.model.exception.ValidationException;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -28,7 +29,7 @@ public class LecturerValidatorTest {
 
         var result = lecturerValidator.isValid(lecturer);
 
-        assertTrue(result);
+        Assertions.assertTrue(result);
     }
 
     @Test
